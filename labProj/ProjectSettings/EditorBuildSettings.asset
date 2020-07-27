@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Ejecutable/menu.unity
+    guid: 911f08a6cd788ce4b9a19fc157e7d853
+  - enabled: 1
+    path: Assets/Ejecutable/Fractal.unity
+    guid: 88d5763145dc2c449aae6e9053273c0f
+  - enabled: 1
+    path: Assets/Ejecutable/recre.unity
+    guid: 44541f82714ffab4b9325cc344af211d
+  - enabled: 1
+    path: Assets/Ejecutable/Funciones/f1.unity
+    guid: db4936e63b63248499133d4e101ff958
+  - enabled: 1
+    path: Assets/Ejecutable/Funciones/f2.unity
+    guid: e178a80657460254a8f1c75ffa8a2d97
+  - enabled: 1
+    path: Assets/Ejecutable/Funciones/f3.unity
+    guid: 278540d11ec4c8348b4840c2920fceb0
+  - enabled: 1
+    path: Assets/Ejecutable/Funciones/f4.unity
+    guid: 8eb8b4fe6c8cdcd479c701f2787a26dc
+  m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: de6df05e5e2809f46b7da55144953131,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5af1ed2d4d6dd8745840480fa12a9718,
+      type: 2}
